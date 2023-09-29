@@ -14,7 +14,7 @@ public class Main {
             System.out.println();
         }
 
-
+                                                                                                                                      
         int[][] transpoz = new int[matris[0].length][matris.length];
 
 
